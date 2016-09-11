@@ -1,0 +1,202 @@
+Level,Name,Needs,Price,Reduction,Source,Time,XP
+1,[[Wheat]],{'[[Wheat]]': 1},3,0,[[Farm]],2,1
+1,[[Egg]],{'[[Chicken Feed]]': 1},18,0,[[Chicken]],20,2
+2,[[Corn]],{'[[Corn]]': 1},7,0,[[Farm]],5,1
+2,[[Bread]],{'[[Wheat]]': 3},21,4,[[Bakery]],5,3
+3,[[Chicken Feed]],"{'[[Wheat]]': 2, '[[Corn]]': 1}",7,4,[[Feed Mill]],5,1
+5,[[Soybean]],{'[[Soybean]]': 1},10,0,[[Farm]],20,2
+6,[[Cow Feed]],"{'[[Corn]]': 1, '[[Soybean]]': 2}",14,8,[[Feed Mill]],10,2
+6,[[Milk]],{'[[Cow Feed]]': 1},32,0,[[Cow]],60,3
+6,[[Cream]],{'[[Milk]]': 1},50,17,[[Dairy]],20,6
+7,[[Sugarcane]],{'[[Sugarcane]]': 1},14,0,[[Farm]],30,3
+7,[[Corn Bread]],"{'[[Corn]]': 2, '[[Egg]]': 2}",72,25,[[Bakery]],30,8
+7,[[Brown Sugar]],{'[[Sugarcane]]': 1},32,17,[[Sugar Mill]],20,4
+8,[[Popcorn]],{'[[Corn]]': 2},32,25,[[Popcorn Pot]],30,4
+9,[[Carrot]],{'[[Carrot]]': 1},7,0,[[Farm]],10,2
+9,[[Butter]],{'[[Milk]]': 2},82,25,[[Dairy]],30,10
+9,[[Pancake]],"{'[[Brown Sugar]]': 1, '[[Egg]]': 3}",108,25,[[BBQ Grill]],30,13
+10,[[Pig Feed]],"{'[[Soybean]]': 1, '[[Carrot]]': 2}",14,17,[[Feed Mill]],20,2
+10,[[Bacon]],{'[[Pig Feed]]': 1},50,0,[[Pig]],240,5
+10,[[Cookie]],"{'[[Wheat]]': 2, '[[Brown Sugar]]': 1, '[[Egg]]': 2}",104,51,[[Bakery]],60,13
+11,[[Bacon and Eggs]],"{'[[Egg]]': 4, '[[Bacon]]': 2}",201,51,[[BBQ Grill]],60,24
+12,[[Cheese]],{'[[Milk]]': 3},122,51,[[Dairy]],60,15
+13,[[Indigo]],{'[[Indigo]]': 1},25,0,[[Farm]],120,5
+13,[[White Sugar]],{'[[Sugarcane]]': 2},50,34,[[Sugar Mill]],40,6
+14,[[Carrot Pie]],"{'[[Wheat]]': 2, '[[Egg]]': 1, '[[Carrot]]': 3}",82,51,[[Pie Oven]],60,10
+15,[[Pumpkin]],{'[[Pumpkin]]': 1},32,0,[[Farm]],180,6
+15,[[Pumpkin Pie]],"{'[[Wheat]]': 2, '[[Pumpkin]]': 3, '[[Egg]]': 1}",158,102,[[Pie Oven]],120,19
+15,[[Apple]],{},39,0,[[Apple Tree]],960,7
+16,[[Wool]],{'[[Sheep Feed]]': 1},54,0,[[Sheep]],360,5
+16,[[Sheep Feed]],"{'[[Wheat]]': 3, '[[Soybean]]': 1}",14,25,[[Feed Mill]],30,3
+16,[[Buttered Popcorn]],"{'[[Butter]]': 1, '[[Corn]]': 2}",126,51,[[Popcorn Pot]],60,15
+17,[[Sweater]],{'[[Wool]]': 2},151,102,[[Loom]],120,18
+18,[[Cotton]],{'[[Cotton]]': 1},28,0,[[Farm]],150,6
+18,[[Bacon Pie]],"{'[[Wheat]]': 3, '[[Egg]]': 1, '[[Bacon]]': 3}",219,153,[[Pie Oven]],180,26
+18,[[Syrup]],{'[[Sugarcane]]': 4},90,76,[[Sugar Mill]],90,11
+18,[[Cotton Fabric]],{'[[Cotton]]': 3},108,25,[[Loom]],30,13
+18,[[Hamburger]],"{'[[Bread]]': 2, '[[Bacon]]': 2}",180,102,[[BBQ Grill]],120,22
+19,[[Raspberry Muffin]],"{'[[Wheat]]': 2, '[[Raspberry]]': 2, '[[Egg]]': 1}",140,38,[[Bakery]],45,17
+19,[[Blue Woolly Hat]],"{'[[Indigo]]': 1, '[[Wool]]': 1}",111,51,[[Loom]],60,13
+19,[[Raspberry]],{},46,0,[[Raspberry Bush]],1080,9
+19,[[Cotton Shirt]],{'[[Cotton Fabric]]': 2},241,38,[[Sewing Machine]],45,29
+20,[[Blue Sweater]],"{'[[Indigo]]': 2, '[[Wool]]': 2}",208,153,[[Loom]],180,22
+21,[[Carrot Cake]],"{'[[Butter]]': 1, '[[Brown Sugar]]': 1, '[[Carrot]]': 2}",165,76,[[Cake Oven]],90,20
+21,[[Woolly Chaps]],"{'[[Cotton Fabric]]': 1, '[[Wool]]': 3}",309,76,[[Sewing Machine]],90,37
+22,[[Cherry]],{},68,0,[[Cherry Tree]],1620,13
+23,[[Cream Cake]],"{'[[Wheat]]': 5, '[[Cream]]': 1, '[[White Sugar]]': 1}",219,153,[[Cake Oven]],180,26
+23,[[Red Berry Cake]],"{'[[Cherry]]': 2, '[[Raspberry]]': 1, '[[Egg]]': 1, '[[Milk]]': 1}",255,51,[[Cake Oven]],60,31
+24,[[Cheesecake]],"{'[[Cookie]]': 1, '[[Cheese]]': 1}",284,204,[[Cake Oven]],240,34
+24,[[Silver Ore]],{},18,0,[[Mine]],0,5
+24,[[Gold Ore]],{},21,0,[[Mine]],0,6
+24,[[Platinum Ore]],{},32,0,[[Mine]],0,7
+24,[[Silver Bar]],{'[[Silver Ore]]': 3},147,408,[[Smelter]],480,14
+25,[[Chili Pepper]],{'[[Chili Pepper]]': 1},36,0,[[Farm]],240,4
+25,[[Chili Popcorn]],"{'[[Corn]]': 2, '[[Chili Pepper]]': 2}",122,102,[[Popcorn Pot]],120,15
+25,[[Gold Bar]],{'[[Gold Ore]]': 3},180,612,[[Smelter]],720,18
+25,[[Platinum Bar]],{'[[Platinum Ore]]': 3},205,816,[[Smelter]],960,21
+25,[[Violet Dress]],"{'[[Indigo]]': 1, '[[Cotton Fabric]]': 2, '[[Raspberry]]': 1}",327,114,[[Sewing Machine]],135,39
+26,[[Blackberry]],{},82,0,[[Blackberry Bush]],1920,16
+26,[[Blackberry Muffin]],"{'[[Wheat]]': 2, '[[Blackberry]]': 2, '[[Egg]]': 2}",226,38,[[Bakery]],45,27
+26,[[Carrot Juice]],{'[[Carrot]]': 3},46,25,[[Juice Press]],30,6
+27,[[Fish Fillet]],{'[[Lure]]': 1},54,0,[[Fish]],120,4
+27,[[Fish Burger]],"{'[[Bread]]': 2, '[[Chili Pepper]]': 1, '[[Fish Fillet]]': 2}",226,102,[[BBQ Grill]],120,27
+27,[[Lure]],{},0,76,[[Lure Workbench]],60,1
+28,[[Apple Pie]],"{'[[Wheat]]': 2, '[[Apple]]': 3, '[[Syrup]]': 1, '[[Egg]]': 1}",270,127,[[Pie Oven]],150,32
+28,[[Fish Pie]],"{'[[Wheat]]': 2, '[[Egg]]': 1, '[[Fish Fillet]]': 3}",226,102,[[Pie Oven]],120,27
+28,[[Apple Juice]],{'[[Apple]]': 2},129,102,[[Juice Press]],120,15
+29,[[Vanilla Ice Cream]],"{'[[Cream]]': 1, '[[Milk]]': 1, '[[White Sugar]]': 1}",172,102,[[Ice Cream Maker]],120,20
+30,[[Tomato]],{'[[Tomato]]': 1},43,0,[[Farm]],360,8
+30,[[Roasted Tomatoes]],{},118,76,[[BBQ Grill]],90,14
+30,[[Cherry Juice]],{'[[Cherry]]': 2},216,127,[[Juice Press]],150,26
+31,[[Tomato Juice]],{},162,76,[[Juice Press]],90,19
+31,[[Berry Juice]],"{'[[Blackberry]]': 1, '[[Raspberry]]': 1}",205,153,[[Juice Press]],180,24
+32,[[Goat Feed]],"{'[[Wheat]]': 1, '[[Corn]]': 1, '[[Carrot]]': 2}",14,34,[[Feed Mill]],40,3
+32,[[Goat Milk]],{'[[Goat Feed]]': 1},64,0,[[Goat]],480,6
+33,[[Goat Cheese]],{'[[Goat Milk]]': 2},162,76,[[Dairy]],90,19
+33,[[Pizza]],"{'[[Tomato]]': 1, '[[Wheat]]': 2, '[[Cheese]]': 1}",190,12,[[Bakery]],15,23
+33,[[Coal]],{},10,0,[[Mine]],0,3
+33,[[Refined Coal]],{'[[Coal]]': 3},108,306,[[Smelter]],360,13
+33,[[Cherry Popsicle]],"{'[[Cherry Juice]]': 1, '[[Syrup]]': 1}",352,153,[[Ice Cream Maker]],180,42
+34,[[Strawberry]],{'[[Strawberry]]': 1},50,0,[[Farm]],480,10
+34,[[Feta Pie]],"{'[[Wheat]]': 2, '[[Goat Cheese]]': 1, '[[Egg]]': 1}",223,76,[[Pie Oven]],90,26
+34,[[Iron Ore]],{},14,0,[[Mine]],0,4
+34,[[Iron Bar]],{'[[Iron Ore]]': 3},129,357,[[Smelter]],420,15
+34,[[Strawberry Ice Cream]],"{'[[Cream]]': 1, '[[Milk]]': 1, '[[White Sugar]]': 1, '[[Strawberry]]': 3}",331,204,[[Ice Cream Maker]],240,40
+35,[[Potato]],{'[[Potato]]': 1},36,0,[[Farm]],220,7
+35,[[Strawberry Cake]],"{'[[Wheat]]': 3, '[[Cream]]': 1, '[[Strawberry]]': 2, '[[White Sugar]]': 1}",316,153,[[Cake Oven]],180,38
+35,[[Baked Potato]],"{'[[Cream]]': 1, '[[Cheese]]': 1, '[[Chili Pepper]]': 1}",298,29,[[BBQ Grill]],35,36
+35,[[Apple Jam]],{'[[Apple]]': 3},219,306,[[Jam Maker]],360,26
+36,[[Chocolate Cake]],"{'[[Butter]]': 1, '[[Brown Sugar]]': 1, '[[Cacao]]': 2}",320,102,[[Cake Oven]],120,38
+36,[[Casserole]],"{'[[Egg]]': 2, '[[Bacon]]': 2, '[[Cheese]]': 1}",367,102,[[Pie Oven]],120,44
+36,[[Cacao]],{},86,0,[[Cacao Tree]],2040,16
+36,[[Raspberry Jam]],{'[[Raspberry]]': 3},252,357,[[Jam Maker]],420,29
+37,[[Spicy Pizza]],"{'[[Tomato]]': 1, '[[Wheat]]': 2, '[[Cheese]]': 1, '[[Chili Pepper]]': 1}",226,12,[[Bakery]],15,27
+37,[[Blackberry Jam]],{'[[Blackberry]]': 3},388,408,[[Jam Maker]],480,46
+38,[[Potato Feta Cake]],"{'[[Potato]]': 1, '[[Goat Cheese]]': 1, '[[Egg]]': 4}",309,102,[[Cake Oven]],120,32
+38,[[Cherry Jam]],{'[[Cherry]]': 3},327,357,[[Jam Maker]],420,39
+38,[[Bracelet]],"{'[[Silver Bar]]': 2, '[[Gold Bar]]': 1}",514,84,[[Jeweler]],120,50
+39,[[Potato Bread]],"{'[[Butter]]': 1, '[[Egg]]': 3, '[[White Sugar]]': 1}",284,38,[[Bakery]],45,34
+39,[[Shepherd's Pie]],"{'[[Pumpkin]]': 2, '[[Bacon]]': 2, '[[Carrot]]': 2}",280,85,[[Pie Oven]],100,34
+39,[[Chocolate Ice Cream]],"{'[[Cream]]': 1, '[[White Sugar]]': 1, '[[Milk]]': 1, '[[Cacao]]': 2}",342,127,[[Ice Cream Maker]],150,41
+39,[[Honeycomb]],{},68,0,[[Beehive Tree]],0,8
+39,[[Necklace]],"{'[[Silver Bar]]': 2, '[[Platinum Bar]]': 1, '[[Gold Bar]]': 1}",727,153,[[Jeweler]],180,72
+39,[[Honey]],{'[[Honeycomb]]': 2},154,17,[[Honey Extractor]],20,19
+40,[[Honey Popcorn]],"{'[[Honey]]': 2, '[[Corn]]': 2}",360,76,[[Popcorn Pot]],90,43
+40,[[Diamond Ring]],"{'[[Platinum Bar]]': 2, '[[Gold Bar]]': 2, '[[Diamond]]': 1}",824,204,[[Jeweler]],240,84
+41,[[Fish and Chips]],{'[[Fish Fillet]]': 2},244,76,[[BBQ Grill]],90,29
+41,[[Iron Bracelet]],"{'[[Iron Bar]]': 2, '[[Silver Bar]]': 1, '[[Refined Coal]]': 2}",658,76,[[Jeweler]],90,79
+42,[[Coffee Bean]],{},64,0,[[Coffee Bush]],1500,12
+42,[[Espresso]],"{'[[Coffee Bean]]': 3, '[[White Sugar]]': 1}",248,4,[[Coffee Kiosk]],5,29
+42,[[Honey Apple Cake]],"{'[[Honey]]': 2, '[[Apple]]': 2, '[[Egg]]': 2, '[[Wheat]]': 2}",482,170,[[Cake Oven]],200,57
+43,[[Caffè Latte]],"{'[[Coffee Bean]]': 2, '[[White Sugar]]': 1, '[[Milk]]': 1}",219,8,[[Coffee Kiosk]],10,26
+44,[[Chocolate Popcorn]],"{'[[Corn]]': 2, '[[Cacao]]': 2}",248,127,[[Popcorn Pot]],150,29
+44,[[Lobster Tail]],{'[[Lobster]]': 1},201,0,[[Lobster Pool]],360,24
+44,[[Lobster Trap]],{},0,102,[[Net Maker]],120,5
+45,[[Frutti di Mare Pizza]],"{'[[Wheat]]': 2, '[[Lobster Tail]]': 1, '[[Cheese]]': 1, '[[Fish Fillet]]': 1}",403,12,[[Bakery]],15,32
+45,[[Caffè Mocha]],"{'[[Cream]]': 1, '[[Coffee Bean]]': 1, '[[Cacao]]': 2}",291,12,[[Coffee Kiosk]],15,35
+46,[[Raspberry Mocha]],"{'[[Cream]]': 1, '[[Coffee Bean]]': 1, '[[Cacao]]': 1, '[[Raspberry]]': 1}",259,25,[[Coffee Kiosk]],30,16
+46,[[Lobster Soup]],"{'[[Cream]]': 1, '[[Chili Pepper]]': 2, '[[Lobster Tail]]': 2}",612,127,[[Soup Kitchen]],150,73
+47,[[Hot Chocolate]],"{'[[Cream]]': 1, '[[White Sugar]]': 1, '[[Milk]]': 1, '[[Cacao]]': 2}",316,21,[[Coffee Kiosk]],25,32
+47,[[Tomato Soup]],"{'[[Goat Cheese]]': 1, '[[Chili Pepper]]': 1, '[[Tomato Juice]]': 1}",478,76,[[Soup Kitchen]],90,57
+48,[[Red Scarf]],"{'[[Wool]]': 2, '[[Strawberry]]': 2}",288,127,[[Loom]],150,34
+48,[[Lobster Skewer]],"{'[[Honey]]': 1, '[[Chili Pepper]]': 1}",417,34,[[BBQ Grill]],40,50
+48,[[Beeswax]],{'[[Honeycomb]]': 3},234,38,[[Honey Extractor]],45,28
+48,[[Strawberry Candle]],"{'[[Strawberry]]': 2, '[[Beeswax]]': 1}",370,102,[[Candle Maker]],120,44
+49,[[Pumpkin Soup]],"{'[[Butter]]': 1, '[[Honey]]': 1, '[[Pumpkin]]': 3, '[[Carrot]]': 2}",392,102,[[Soup Kitchen]],120,47
+50,[[Strawberry Jam]],{'[[Strawberry]]': 3},270,382,[[Jam Maker]],450,32
+50,[[Duck Feather]],{'[[Duck]]': 1},140,0,[[Duck Salon]],180,17
+50,[[Duck Trap]],{},0,51,[[Net Maker]],60,3
+51,[[Caramel Apple]],"{'[[Apple]]': 1, '[[Syrup]]': 2}",255,102,[[Candy Machine]],120,31
+51,[[Pillow]],"{'[[Cotton Fabric]]': 2, '[[Duck Feather]]': 3}",676,153,[[Sewing Machine]],180,81
+52,[[Toffee]],"{'[[Butter]]': 1, '[[Wheat]]': 1, '[[White Sugar]]': 1}",176,76,[[Candy Machine]],90,21
+52,[[Raspberry Candle]],"{'[[Raspberry]]': 2, '[[Beeswax]]': 1}",360,89,[[Candle Maker]],105,43
+53,[[Fish Soup]],"{'[[Milk]]': 1, '[[Fish Fillet]]': 2, '[[Carrot]]': 1}",298,153,[[Soup Kitchen]],180,35
+54,[[Soy Sauce]],"{'[[Wheat]]': 1, '[[Soybean]]': 9}",154,153,[[Sauce Maker]],180,19
+54,[[Chocolate]],"{'[[White Sugar]]': 1, '[[Cacao]]': 3}",460,1020,[[Candy Machine]],1200,55
+56,[[Rice]],{'[[Rice]]': 1},18,0,[[Farm]],45,3
+56,[[Sushi Roll]],"{'[[Soy Sauce]]': 1, '[[Fish Fillet]]': 1, '[[Rice]]': 15}",489,51,[[Sushi Bar]],60,58
+57,[[Olive]],{},82,0,[[Olive Tree]],1440,17
+57,[[Lollipop]],"{'[[Cherry]]': 1, '[[Syrup]]': 1, '[[Strawberry]]': 2}",342,612,[[Candy Machine]],720,41
+58,[[Lettuce]],{'[[Lettuce]]': 1},32,0,[[Farm]],210,7
+58,[[Feta Salad]],"{'[[Olive]]': 2, '[[Lettuce]]': 3, '[[Goat Cheese]]': 2, '[[Roasted Tomatoes]]': 1}",745,76,[[Salad Bar]],90,89
+59,[[Lobster Sushi]],"{'[[Soy Sauce]]': 1, '[[Lobster Tail]]': 1, '[[Rice]]': 15}",637,51,[[Sushi Bar]],60,76
+59,[[Blanket]],"{'[[Cotton Fabric]]': 3, '[[Duck Feather]]': 5, '[[Pumpkin]]': 1}",1098,178,[[Sewing Machine]],210,131
+60,[[Jelly Beans]],"{'[[Blackberry Jam]]': 1, '[[White Sugar]]': 1, '[[Raspberry Jam]]': 1}",684,1224,[[Candy Machine]],1440,81
+60,[[Olive Oil]],{'[[Olive]]': 3},277,38,[[Sauce Maker]],45,33
+61,[[Veggie Bagel]],"{'[[Lettuce]]': 3, '[[Bread]]': 2, '[[Olive Oil]]': 1}",532,34,[[Sandwich Bar]],40,63
+62,[[BLT Salad]],"{'[[Lettuce]]': 3, '[[Mayonnaise]]': 1, '[[Bacon]]': 2, '[[Roasted Tomatoes]]': 1}",723,89,[[Salad Bar]],105,86
+62,[[Mayonnaise]],"{'[[Olive Oil]]': 1, '[[Egg]]': 4}",378,12,[[Sauce Maker]],15,44
+63,[[Egg Sushi]],"{'[[Brown Sugar]]': 1, '[[Soy Sauce]]': 1, '[[Egg]]': 4, '[[Rice]]': 15}",550,102,[[Sushi Bar]],120,66
+64,[[Seafood Salad]],"{'[[Lettuce]]': 3, '[[Mayonnaise]]': 1, '[[Lobster Tail]]': 1, '[[Fish Fillet]]': 1}",763,102,[[Salad Bar]],120,91
+64,[[Berry Smoothie]],"{'[[Blackberry]]': 3, '[[Raspberry]]': 3, '[[Strawberry]]': 3}",547,63,[[Smoothie Mixer]],75,65
+65,[[Bacon Toast]],"{'[[Lettuce]]': 3, '[[Mayonnaise]]': 1, '[[Bread]]': 2, '[[Bacon]]': 2}",648,85,[[Sandwich Bar]],100,77
+66,[[Lemon]],{},93,0,[[Lemon Tree]],1740,18
+66,[[Lemon Curd]],"{'[[Butter]]': 1, '[[Lemon]]': 2, '[[Egg]]': 2, '[[White Sugar]]': 1}",367,21,[[Sauce Maker]],25,45
+66,[[Egg Sandwich]],"{'[[Lettuce]]': 3, '[[Mayonnaise]]': 1, '[[Bread]]': 2, '[[Egg]]': 2}",583,68,[[Sandwich Bar]],80,69
+66,[[Green Smoothie]],"{'[[Apple]]': 1, '[[Lemon]]': 1, '[[Lettuce]]': 5}",320,38,[[Smoothie Mixer]],45,38
+67,[[Fresh Pasta]],"{'[[Wheat]]': 2, '[[Egg]]': 1}",43,12,[[Pasta Maker]],15,5
+67,[[Pasta Salad]],"{'[[Olive Oil]]': 1, '[[Fresh Pasta]]': 4, '[[Lemon]]': 2}",759,127,[[Salad Bar]],150,90
+67,[[Lemon Pie]],"{'[[Wheat]]': 2, '[[Lemon Curd]]': 1, '[[Egg]]': 1}",446,114,[[Pie Oven]],135,53
+68,[[Onion]],{'[[Onion]]': 1},39,0,[[Farm]],300,8
+68,[[Grilled Onion]],"{'[[Butter]]': 1, '[[Onion]]': 2}",190,51,[[BBQ Grill]],60,23
+68,[[Lemon Cake]],"{'[[Wheat]]': 3, '[[Cream]]': 1, '[[Egg]]': 2, '[[Lemon Curd]]': 2}",896,127,[[Cake Oven]],150,107
+69,[[Tomato Sauce]],"{'[[Brown Sugar]]': 1, '[[Lemon]]': 1}",230,25,[[Sauce Maker]],30,27
+69,[[Honey Toast]],"{'[[Honey]]': 1, '[[Bread]]': 1, '[[Egg]]': 1, '[[Milk]]': 1}",255,51,[[Sandwich Bar]],60,31
+70,[[Yogurt Smoothie]],"{'[[Cherry]]': 1, '[[Cream]]': 1, '[[White Sugar]]': 1, '[[Raspberry]]': 2}",349,51,[[Smoothie Mixer]],60,42
+70,[[Cloche Hat]],"{'[[Wool]]': 6, '[[Strawberry]]': 2}",468,102,[[Hat Maker]],120,56
+71,[[Orange]],{},97,0,[[Orange Tree]],1860,19
+71,[[Orange Juice]],{'[[Orange]]': 2},234,102,[[Juice Press]],120,28
+72,[[Onion Soup]],"{'[[Bread]]': 2, '[[Cheese]]': 1, '[[Onion]]': 3}",327,127,[[Soup Kitchen]],150,36
+72,[[Lemon Candle]],"{'[[Lemon]]': 2, '[[Beeswax]]': 1}",457,114,[[Candle Maker]],135,55
+72,[[Top Hat]],"{'[[Cotton Fabric]]': 3, '[[Duck Feather]]': 1, '[[Refined Coal]]': 1}",619,178,[[Hat Maker]],210,74
+72,[[Gnocchi]],"{'[[Wheat]]': 2, '[[Butter]]': 2}",475,68,[[Pasta Kitchen]],80,57
+73,[[Noodle Soup]],"{'[[Egg]]': 2, '[[Chili Pepper]]': 1, '[[Carrot]]': 2}",432,127,[[Soup Kitchen]],150,52
+73,[[Rice Noodles]],{'[[Rice]]': 5},100,17,[[Pasta Maker]],20,12
+74,[[Marmalade]],{'[[Orange]]': 3},457,433,[[Jam Maker]],510,54
+74,[[Sun Hat]],"{'[[Indigo]]': 1, '[[Duck Feather]]': 2, '[[Raspberry]]': 1, '[[Wool]]': 3}",468,127,[[Hat Maker]],150,66
+74,[[Veggie Lasagna]],"{'[[Fresh Pasta]]': 3, '[[Carrot]]': 1, '[[Cheese]]': 1, '[[Tomato Sauce]]': 1}",532,85,[[Pasta Kitchen]],100,63
+75,[[Hot Dog]],"{'[[Bread]]': 1, '[[Bacon]]': 2, '[[Tomato Sauce]]': 1}",370,25,[[Hot Dog Stand]],30,44
+76,[[Peach]],{},100,0,[[Peach Tree]],1800,20
+76,[[Peach Tart]],"{'[[Wheat]]': 2, '[[Cream]]': 1, '[[Egg]]': 2}",435,127,[[Pie Oven]],150,52
+76,[[Tofu Dog]],"{'[[Lettuce]]': 3, '[[Soybean]]': 6}",367,38,[[Hot Dog Stand]],45,44
+77,[[Salsa]],"{'[[Chili Pepper]]': 2, '[[Onion]]': 2}",252,17,[[Sauce Maker]],20,30
+77,[[Taco]],"{'[[Corn Bread]]': 1, '[[Bacon]]': 1, '[[Salsa]]': 1}",396,38,[[Taco Kitchen]],45,47
+78,[[Orange Sorbet]],"{'[[Honey]]': 1, '[[Orange]]': 2}",399,102,[[Ice Cream Maker]],120,48
+78,[[Corn Dog]],"{'[[Olive Oil]]': 1, '[[Corn]]': 4, '[[Bacon]]': 4}",529,51,[[Hot Dog Stand]],60,63
+79,[[Fish Taco]],"{'[[Corn Bread]]': 2, '[[Lemon]]': 1, '[[Chili Pepper]]': 2, '[[Fish Fillet]]': 1}",392,69,[[Taco Kitchen]],90,44
+79,[[Peach Jam]],{},464,408,[[Jam Maker]],480,55
+79,[[Lobster Pasta]],"{'[[Fresh Pasta]]': 3, '[[Lobster Tail]]': 1, '[[Cream]]': 2}",637,102,[[Pasta Kitchen]],120,76
+80,[[Tea Leaf]],{'[[Tea Leaf]]': 1},49,0,[[Farm]],390,9
+80,[[Green Tea]],{'[[Tea Leaf]]': 5},241,25,[[Tea Stand]],30,29
+80,[[Onion Dog]],"{'[[Bread]]': 1, '[[Bacon]]': 2, '[[Chili Pepper]]': 1, '[[Onion]]': 3}",306,63,[[Hot Dog Stand]],75,36
+81,[[Milk Tea]],"{'[[Milk]]': 1, '[[Tea Leaf]]': 3}",190,38,[[Tea Stand]],45,23
+82,[[Quesadilla]],"{'[[Wheat]]': 4, '[[Cheese]]': 1, '[[Chili Pepper]]': 2}",241,51,[[Taco Kitchen]],60,29
+82,[[Fruit Salad]],"{'[[Honey]]': 1, '[[Blackberry]]': 2, '[[Orange]]': 1, '[[Strawberry]]': 3}",597,102,[[Salad Bar]],120,71
+83,[[Peach Ice Cream]],"{'[[Honey]]': 1, '[[Cream]]': 1}",450,153,[[Ice Cream Maker]],180,54
+83,[[Honey Tea]],"{'[[Honey]]': 1, '[[Tea Leaf]]': 3}",313,34,[[Tea Stand]],40,37
+84,[[Summer Salad]],"{'[[Peach]]': 1, '[[Goat Cheese]]': 1, '[[Onion]]': 3}",554,153,[[Salad Bar]],180,66
+86,[[Lemon Tea]],"{'[[Lemon]]': 1, '[[Tea Leaf]]': 3}",241,17,[[Tea Stand]],20,29
+87,[[Nachos]],"{'[[Corn]]': 4, '[[Cheese]]': 1, '[[Salsa]]': 1}",432,63,[[Taco Kitchen]],75,52
+88,[[Mixed Smoothie]],"{'[[Orange]]': 2, '[[Lemon]]': 1}",504,25,[[Smoothie Mixer]],30,60
+89,[[Orange Tea]],"{'[[Orange]]': 1, '[[Tea Leaf]]': 3}",255,34,[[Tea Stand]],40,30
+92,[[Iced Tea]],"{'[[Peach]]': 1, '[[Tea Leaf]]': 3}",252,25,[[Tea Stand]],30,30

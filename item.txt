@@ -1,0 +1,1862 @@
+[[Wheat]]
+1
+3
+2 min
+1
+[[Wheat]](1)
+[[Farm|Field]]
+50-88
+-
+[[Egg]]
+1
+18
+20 min
+2
+[[Chicken Feed|Chicken feed]](1)
+[[Chicken]]
+16-23
+-
+[[Corn]]
+2
+7
+5 min
+1
+[[Corn]](1)
+[[Farm|Field]]
+50-87
+-
+[[Bread]]
+2
+21
+5 min|4 min
+3
+[[Wheat]](3)
+[[Bakery]]
+14-23
+-
+[[Chicken Feed|Chicken feed]]
+3
+7
+5 min|4 min
+1
+[[Corn]](1)[[Wheat]](2)
+[[Feed Mill]]
+N/A
+-
+[[Soybean]]
+5
+10
+20 min
+2
+[[Soybean]](1)
+[[Farm|Field]]
+24-34
+-
+[[Cow Feed|Cow feed]]
+6
+14
+10 min|8 min
+2
+[[Corn]](1)[[Soybean]]s(2)
+[[Feed Mill]]
+N/A
+-
+[[Milk]]
+6
+32
+1 h
+3
+[[Cow Feed|Cow feed]](1)
+[[Cow]]
+8-15
+-
+[[Cream]]
+6
+50
+20 min|17 min
+6
+[[Milk]](1)
+[[Dairy]]
+8-12
+-
+[[Sugarcane]]
+7
+14
+30 min
+3
+[[Sugarcane]](1)
+[[Farm|Field]]
+18-29
+-
+[[Corn Bread|Corn bread]]
+7
+72
+30 min|25 min
+8
+[[Corn]](2)[[Egg]]s(2)
+[[Bakery]]
+4-7
+-
+[[Brown Sugar|Brown sugar]]
+7
+32
+20 min|17 min
+4
+[[Sugarcane]](1)
+[[Sugar Mill]]
+8-13
+-
+[[Popcorn]]
+8
+32
+30 min|25 min
+4
+[[Corn]](2)
+[[Popcorn Pot]]
+10-19
+-
+[[Carrot]]
+9
+7
+10 min
+2
+[[Carrot]](1)
+[[Farm|Field]]
+30-41
+-
+[[Butter]]
+9
+82
+30 min|25 min
+10
+[[Milk]](2)
+[[Dairy]]
+5-6
+-
+[[Pancake]]
+9
+108
+30 min|25 min
+13
+[[Brown Sugar|Brown sugar]](1)[[Egg]]s(3)
+[[BBQ Grill]]
+3-4
+-
+[[Pig Feed|Pig feed]]
+10
+14
+20 min|17 min
+2
+[[Carrot]](2)[[Soybean]](1)
+[[Feed Mill]]
+N/A
+-
+[[Bacon]]
+10
+50
+4 h
+5
+[[Pig Feed|Pig feed]](1)
+[[Pig]]
+5-9
+-
+[[Cookie]]
+10
+104
+1 h|51 min
+13
+[[Brown Sugar|Brown sugar]](1)[[Egg]]s(2)[[Wheat]](2)
+[[Bakery]]
+3-5
+-
+[[Bacon and Eggs|Bacon and eggs]]
+11
+201
+1 h|51 min
+24
+[[Bacon]](2)[[Egg]]s(4)
+[[BBQ Grill]]
+2-4
+-
+[[Cheese]]
+12
+122
+1 h|51 min
+15
+[[Milk]](3)
+[[Dairy]]
+3-4
+-
+[[Indigo]]
+13
+25
+2 h
+5
+[[Indigo]](1)
+[[Farm|Field]]
+8-17
+-
+[[White Sugar|White sugar]]
+13
+50
+40 min|34 min
+6
+[[Sugarcane]]s(2)
+[[Sugar Mill]]
+5-13
+-
+[[Carrot Pie|Carrot pie]]
+14
+82
+1 h|51 min
+10
+[[Carrot]]s(3)[[Egg]](1)[[Wheat]](2)
+[[Pie Oven]]
+4-7
+-
+[[Pumpkin]]
+15
+32
+3 h
+6
+[[Pumpkin]](1)
+[[Farm|Field]]
+9-15
+-
+[[Pumpkin Pie|Pumpkin pie]]
+15
+158
+2 h|1 h 42 min
+19
+[[Egg]](1)[[Pumpkin]]s(3)[[Wheat]](2)
+[[Pie Oven]]
+3-?
+-
+[[Apple]]
+15
+39
+16 h
+7
+N/A
+[[Apple Tree|Apple tree]]
+8-12
+-
+[[Wool]]
+16
+54
+6 h
+5
+[[Sheep Feed|Sheep feed]](1)
+[[Sheep]]
+5-8
+-
+[[Sheep Feed|Sheep feed]]
+16
+14
+30 min|25 min
+3
+[[Soybean]](1)[[Wheat]](3)
+[[Feed Mill]]
+N/A
+-
+[[Buttered Popcorn|Buttered popcorn]]
+16
+126
+1 h|51 min
+15
+[[Butter]](1)[[Corn]](2)
+[[Popcorn Pot]]
+2-5
+-
+[[Sweater]]
+17
+151
+2 h|1 h 42 min
+18
+[[Wool]](2)
+[[Loom]]
+3-?
+-
+[[Cotton]]
+18
+28
+2 h 30 min
+6
+[[Cotton]](1)
+[[Farm|Field]]
+10-12
+-
+[[Bacon Pie|Bacon pie]]
+18
+219
+3 h|2 h 33 min
+26
+[[Bacon]](3)[[Egg]](1)[[Wheat]](3)
+[[Pie Oven]]
+2-3
+-
+[[Syrup]]
+18
+90
+1 h 30 min|1 h 16 min
+11
+[[Sugarcane]]s(4)
+[[Sugar Mill]]
+3-4
+-
+[[Cotton Fabric|Cotton fabric]]
+18
+108
+30 min|25 min
+13
+[[Cotton]](3)
+[[Loom]]
+3-5
+-
+[[Hamburger]]
+18
+180
+2 h|1 h 42 min
+22
+[[Bacon]](2)[[Bread]](2)
+[[BBQ Grill]]
+2-3
+-
+[[Raspberry Muffin|Raspberry muffin]]
+19
+140
+45 min|38 min
+17
+[[Egg]](1)[[Raspberry|Raspberries]](2)[[Wheat]](2)
+[[Bakery]]
+2-4
+-
+[[Blue Woolly Hat|Blue woolly hat]]
+19
+111
+1 h|51 min
+13
+[[Indigo]](1)[[Wool]](1)
+[[Loom]]
+3-5
+-
+[[Raspberry]]
+19
+46
+18 h
+9
+N/A
+[[Raspberry Bush|Raspberry bush]]
+6-10
+-
+[[Cotton Shirt|Cotton shirt]]
+19
+241
+45 min|38 min
+29
+[[Cotton Fabric|Cotton fabrics]](2)
+[[Sewing Machine]]
+2-3
+-
+[[Blue Sweater|Blue sweater]]
+20
+208
+3 h|2 h 33 min
+22
+[[Indigo]](2)[[Wool]](2)
+[[Loom]]
+2-3
+-
+[[Carrot Cake|Carrot cake]]
+21
+165
+1 h 30 min|1 h 16 min
+20
+[[Brown Sugar|Brown sugar]](1)[[Butter]](1)[[Carrot]]s(2)
+[[Cake Oven]]
+2-3
+-
+[[Woolly Chaps|Woolly chaps]]
+21
+309
+1 h 30 min|1 h 16 min
+37
+[[Cotton Fabric|Cotton fabric]](1)[[Wool]](3)
+[[Sewing Machine]]
+1-2
+-
+[[Cherry]]
+22
+68
+1 d 3 h
+13
+N/A
+[[Cherry Tree|Cherry tree]]
+5-7
+-
+[[Cream Cake|Cream cake]]
+23
+219
+3 h|2 h 33 min
+26
+[[Cream]](1)[[White Sugar|White sugar]](1)[[Wheat]](5)
+[[Cake Oven]]
+2-3
+-
+[[Red Berry Cake|Red berry cake]]
+23
+255
+1 h|51 min
+31
+[[Cherry|Cherries]](2)[[Egg]](1)[[Milk]](1)[[Raspberry]](1)
+[[Cake Oven]]
+2-3
+-
+[[Cheesecake]]
+24
+284
+4 h|3 h 24 min
+34
+[[Cheese]](1)[[Cookie]](1)
+[[Cake Oven]]
+2-?
+-
+[[Silver Ore|Silver ore]]
+24
+18
+Instant
+5
+[[Supplies]]
+[[Mine]]
+N/A
+-
+[[Gold Ore|Gold ore]]
+24
+21
+Instant
+6
+[[Supplies]]
+[[Mine]]
+N/A
+-
+[[Platinum Ore|Platinum ore]]
+24
+32
+Instant
+7
+[[Supplies]]
+[[Mine]]
+N/A
+-
+[[Silver Bar|Silver bar]]
+24
+147
+8 h|6 h 48 min
+14
+[[Silver Ore|Silver ore]](3)
+[[Smelter]]
+N/A
+-
+[[Chili Pepper|Chili pepper]]
+25
+36
+4 h
+4
+[[Chili Pepper|Chili pepper]](1)
+[[Farm|Field]]
+4-12
+-
+[[Chili Popcorn|Chili popcorn]]
+25
+122
+2 h|1 h 42 min
+15
+[[Chili Pepper|Chili peppers]](2)[[Corn]](2)
+[[Popcorn Pot]]
+3-4
+-
+[[Gold Bar|Gold bar]]
+25
+180
+12 h|10 h 12 min
+18
+[[Gold Ore|Gold ore]](3)
+[[Smelter]]
+N/A
+-
+[[Platinum Bar|Platinum bar]]
+25
+205
+16 h|13 h 36 min
+21
+[[Platinum Ore|Platinum ore]](3)
+[[Smelter]]
+N/A
+-
+[[Violet Dress|Violet dress]]
+25
+327
+2 h 15 min|1 h 54 min
+39
+[[Cotton Fabric|Cotton fabrics]](2)[[Indigo]](1)[[Raspberry]](1)
+[[Sewing Machine]]
+1-2
+-
+[[Blackberry]]
+26
+82
+1 d 8 h
+16
+N/A
+[[Blackberry Bush|Blackberry bush]]
+4-6
+-
+[[Blackberry Muffin|Blackberry muffin]]
+26
+226
+45 min|38 min
+27
+[[Blackberry|Blackberries]](2)[[Egg]]s(2)[[Wheat]](2)
+[[Bakery]]
+2-3
+-
+[[Carrot Juice|Carrot juice]]
+26
+46
+30 min|25 min
+6
+[[Carrot]]s(3)
+[[Juice Press]]
+6-11
+-
+[[Fish Fillet|Fish fillet]]
+27
+54
+2 h
+4-20
+[[Lure]](1)
+[[Fish]]
+6-9
+-
+[[Fish Burger|Fish burger]]
+27
+226
+2 h|1 h 42 min
+27
+[[Bread]](2)[[Chili Pepper|Chili pepper]](1)[[Fish Fillet|Fish fillets]](2)
+[[BBQ Grill]]
+2-3
+-
+[[Lure|Red lure]]
+27
+0
+1 h 30|1 h 16 min
+1
+None
+[[Lure Workbench]]
+N/A
+-
+#[[Lure|Green lure]]
+#27
+#0
+#1 h 15 min|1 h 3 min
+#2
+#[[Green Voucher|Green voucher]](1)
+#[[Lure Workbench]]
+#N/A
+#-
+#[[Lure|Blue lure]]
+#27
+#0
+#1 h|51 min
+#3
+#[[Blue Voucher|Blue voucher]](1)
+#[[Lure Workbench]]
+#N/A
+#-
+#[[Lure|Purple lure]]
+#27
+#0
+#45 min|38 min
+#4
+#[[Purple Voucher|Purple voucher]](1)
+#[[Lure Workbench]]
+#N/A
+#-
+#[[Lure|Gold lure]]
+#27
+#0
+#30 min|25 min
+#5
+#[[Golden Voucher|Golden voucher]](1)
+#[[Lure Workbench]]
+#N/A
+#-
+[[Apple Pie|Apple pie]]
+28
+270
+2 h 30 min|2 h 7 min
+32
+[[Apple]]s(3)[[Egg]](1)[[Syrup]](1)[[Wheat]](2)
+[[Pie Oven]]
+1-2
+-
+[[Fish Pie|Fish pie]]
+28
+226
+2 h|1 h 42 min
+27
+[[Egg]](1)[[Fish Fillet|Fish fillets]](3)[[Wheat]](2)
+[[Pie Oven]]
+2-3
+-
+[[Apple Juice|Apple juice]]
+28
+129
+2 h|1 h 42 min
+15
+[[Apple]]s(2)
+[[Juice Press]]
+3-7
+-
+[[Vanilla Ice Cream|Vanilla ice cream]]
+29
+172
+2 h|1 h 42 min
+20
+[[Cream]](1)[[Milk]](1)[[White Sugar|White sugar]](1)
+[[Ice Cream Maker]]
+2-3
+-
+[[Tomato]]
+30
+43
+6 h
+8
+[[Tomato]](1)
+[[Farm|Field]]
+6-12
+-
+[[Roasted Tomatoes|Roasted tomatoes]]
+30
+118
+1 h 30 min|1 h 16 min
+14
+[[Tomato]]es(2)
+[[BBQ Grill]]
+3-5
+-
+[[Cherry Juice|Cherry juice]]
+30
+216
+2 h 30 min|2 h 7 min
+26
+[[Cherry|Cherries]](2)
+[[Juice Press]]
+2-3
+-
+#[[Fishing Net|Fishing net]]
+#30
+#0
+#4 h|3 h 24 min
+#7
+#None
+#[[Net Maker]]
+#N/A
+#-
+#[[Mystery Net|Mystery net]]
+#30
+#0
+#3 h|2 h 33 min
+##7
+#[[Diamond]]s(5)
+#[[Net Maker]]
+#N/A
+#-
+[[Tomato Juice|Tomato juice]]
+31
+162
+1 h 30 min|1 h 16 min
+19
+[[Tomato]]es(3)
+[[Juice Press]]
+2-3
+-
+[[Berry Juice|Berry juice]]
+31
+205
+3 h|2 h 33 min
+24
+[[Blackberry]](1)[[Raspberry]](1)
+[[Juice Press]]
+2-3
+-
+[[Goat Feed|Goat feed]]
+32
+14
+40 min|34 min
+3
+[[Carrot]]s(2)[[Corn]](1)[[Wheat]](1)
+[[Feed Mill]]
+N/A
+-
+[[Goat Milk|Goat milk]]
+32
+64
+8 h
+6
+[[Goat Feed]](1)
+[[Goat]]
+5-7
+-
+[[Goat Cheese|Goat cheese]]
+33
+162
+1 h 30 min|1 h 16 min
+19
+[[Goat Milk|Goat milk]](2)
+[[Dairy]]
+2-5
+-
+[[Pizza]]
+33
+190
+15 min|12 min
+23
+[[Cheese]](1)[[Tomato]](1)[[Wheat]](2)
+[[Bakery]]
+2-4
+-
+[[Coal]]
+33
+10
+Instant
+3
+[[Supplies]]
+[[Mine]]
+N/A
+-
+[[Refined Coal|Refined coal]]
+33
+108
+6 h|5 h 6 min
+13
+[[Coal]](3)
+[[Smelter]]
+N/A
+-
+[[Cherry Popsicle|Cherry popsicle]]
+33
+352
+3 h|2 h 33 min
+42
+[[Cherry Juice|Cherry juice]](1)[[Syrup]](1)
+[[Ice Cream Maker]]
+1-2
+-
+[[Strawberry]]
+34
+50
+8 h
+10
+[[Strawberry]](1)
+[[Farm|Field]]
+3-9
+-
+[[Feta Pie|Feta pie]]
+34
+223
+1 h 30 min|1 h 16 min
+26
+[[Egg]](1)[[Goat Cheese|Goat cheese]](1)[[Wheat]](2)
+[[Pie Oven]]
+2-3
+-
+[[Iron Ore|Iron ore]]
+34
+14
+Instant
+4
+[[Supplies]]
+[[Mine]]
+N/A
+-
+[[Iron Bar|Iron bar]]
+34
+129
+7 h|5 h 57 min
+15
+[[Iron Ore|Iron ore]](3)
+[[Smelter]]
+N/A
+-
+[[Strawberry Ice Cream|Strawberry ice cream]]
+34
+331
+4 h|3 h 24 min
+40
+[[Cream]](1)[[Milk]](1)[[Strawberry|Strawberries]](3)[[White Sugar|White sugar]](1)
+[[Ice Cream Maker]]
+1-2
+-
+[[Potato]]
+35
+36
+3 h 40 min
+7
+[[Potato]](1)
+[[Farm|Field]]
+6-13
+-
+[[Strawberry Cake|Strawberry cake]]
+35
+316
+3 h|2 h 33 min
+38
+[[Cream]](1)[[Strawberry|Strawberries]](2)[[Wheat]](3)[[White Sugar|White sugar]](1)
+[[Cake Oven]]
+1-2
+-
+[[Baked Potato|Baked potato]]
+35
+298
+35 min|29 min
+36
+[[Cheese]](1)[[Chili Pepper|Chili pepper]](1)[[Cream]](1)[[Potato]]es(2)
+[[BBQ Grill]]
+1-2
+-
+[[Apple Jam|Apple jam]]
+35
+219
+6 h|5 h 6 min
+26
+[[Apple]]s(3)
+[[Jam Maker]]
+2-3
+-
+[[Chocolate Cake|Chocolate cake]]
+36
+320
+2 h|1 h 42 min
+38
+[[Brown Sugar|Brown sugar]](1)[[Butter]](1)[[Cacao]](2)
+[[Cake Oven]]
+1-2
+-
+[[Casserole]]
+36
+367
+2 h|1 h 42 min
+44
+[[Bacon]](2)[[Cheese]](1)[[Egg]]s(2)[[Potato]]es(2)
+[[Pie Oven]]
+1-2
+-
+[[Cacao]]
+36
+86
+1 d 10 h
+16
+N/A
+[[Cacao Tree|Cacao tree]]
+4-6
+-
+[[Raspberry Jam|Raspberry jam]]
+36
+252
+7 h|5 h 57 min
+29
+[[Raspberry|Raspberries]](3)
+[[Jam Maker]]
+1-3
+-
+[[Spicy Pizza|Spicy pizza]]
+37
+226
+15 min|12 min
+27
+[[Cheese]](1)[[Chili Pepper|Chili pepper]](1)[[Tomato]](1)[[Wheat]](2)
+[[Bakery]]
+2-3
+-
+[[Blackberry Jam|Blackberry jam]]
+37
+388
+8 h|6 h 48 min
+46
+[[Blackberry|Blackberries]](3)
+[[Jam Maker]]
+1-2
+-
+[[Potato Feta Cake|Potato feta cake]]
+38
+309
+2 h|1 h 42 min
+32
+[[Egg]]s(4)[[Goat Cheese|Goat cheese]](1)[[Potato]](1)
+[[Cake Oven]]
+2-?
+-
+[[Cherry Jam|Cherry jam]]
+38
+327
+7 h|5 h 57 min
+39
+[[Cherry|Cherries]](3)
+[[Jam Maker]]
+1-2
+-
+[[Bracelet]]
+38
+514
+2 h|1 h 24 min
+50
+[[Gold Bar|Gold bar]](1)[[Silver Bar|Silver bars]](2)
+[[Jeweler]]
+N/A
+-
+[[Potato Bread|Potato bread]]
+39
+284
+45 min|38 min
+34
+[[Butter]](1)[[Egg]]s(3)[[Potato]]es(2)[[White Sugar|White sugar]](1)
+[[Bakery]]
+2-?
+-
+[[Shepherd's Pie|Shepherd's pie]]
+39
+280
+1 h 40 min|1 h 25 min
+34
+[[Bacon]](2)[[Carrot]]s(2)[[Potato]]es(2)[[Pumpkin]]s(2)
+[[Pie Oven]]
+2-?
+-
+[[Chocolate Ice Cream|Chocolate ice cream]]
+39
+342
+2 h 30 min|2 h 7 min
+41
+[[Cream]](1)[[Cacao]](2)[[Milk]](1)[[White Sugar|White sugar]](1)
+[[Ice Cream Maker]]
+1-2
+-
+[[Honeycomb]]
+39
+68
+Instant
+8
+N/A
+[[Beehive Tree|Beehive tree]]
+N/A
+-
+[[Necklace]]
+39
+727
+3 h|2 h 33 min
+72
+[[Gold Bar|Gold bar]](1)[[Platinum Bar|Platinum bar]](1)[[Silver Bar|Silver bars]](2)
+[[Jeweler]]
+N/A
+-
+[[Honey]]
+39
+154
+20 min|17 min
+19
+[[Honeycomb]]s(2)
+[[Honey Extractor]]
+N/A
+-
+[[Honey Popcorn|Honey popcorn]]
+40
+360
+1 h 30 min|1 h 16 min
+43
+[[Corn]](2)[[Honey]](2)
+[[Popcorn Pot]]
+3-4
+-
+[[Diamond Ring|Diamond ring]]
+40
+824
+4 h|3 h 24 min
+84
+[[Diamond]](1)[[Gold Bar|Gold bars]](2)[[Platinum Bar|Platinum bars]](2)
+[[Jeweler]]
+N/A
+-
+[[Fish and Chips|Fish and chips]]
+41
+244
+1 h 30 min|1 h 16 min
+29
+[[Fish Fillet|Fish fillets]](2)[[Potato]]es(3)
+[[BBQ Grill]]
+2-?
+-
+[[Iron Bracelet|Iron bracelet]]
+41
+658
+1 h 30 min|1 h 16 min
+79
+[[Iron Bar|Iron bars]](2)[[Refined Coal|Refined coals]](2)[[Silver Bar|Silver bar]](1)
+[[Jeweler]]
+N/A
+-
+[[Coffee Bean|Coffee bean]]
+42
+64
+1 d 1 h
+12
+N/A
+[[Coffee Bush|Coffee bush]]
+4-7
+-
+[[Espresso]]
+42
+248
+5 min|4 min
+29
+[[Coffee Bean|Coffee beans]](3)[[White Sugar|White sugar]](1)
+[[Coffee Kiosk]]
+2-?
+-
+[[Honey Apple Cake|Honey apple cake]]
+42
+482
+3 h 20 min|2 h 50 min
+57
+[[Apple]]s(2)[[Egg]]s(2)[[Honey]](2)[[Wheat]](2)
+[[Cake Oven]]
+2-?
+-
+[[Caffè Latte|Caffè latte]]
+43
+219
+10 min|8 min
+26
+[[Coffee Bean|Coffee beans]](2)[[Milk]](1)[[White Sugar|White sugar]](1)
+[[Coffee Kiosk]]
+2-?
+-
+[[Chocolate Popcorn|Chocolate popcorn]]
+44
+248
+2 h 30 min|2 h 7 min
+29
+[[Cacao]](2)[[Corn]](2)
+[[Popcorn Pot]]
+2-4
+-
+[[Lobster Tail|Lobster tail]]
+44
+201
+6 h
+24
+[[Lobster]](1)
+[[Lobster Pool]]
+2-4
+-
+[[Lobster Trap|Lobster trap]]
+44
+0
+2 h|1 h 42 min
+5
+None
+[[Net Maker]]
+N/A
+-
+[[Frutti di Mare Pizza|Frutti di Mare pizza]]
+45
+403
+15 min|12 min
+32
+[[Cheese]](1)[[Fish Fillet|Fish fillet]](1)[[Lobster Tail|Lobster tail]](1)[[Wheat]](2)
+[[Bakery]]
+1-2
+-
+[[Caffè Mocha|Caffè mocha]]
+45
+291
+15 min|12 min
+35
+[[Coffee Bean|Coffee bean]](1)[[Cream]](1)[[Cacao]](2)
+[[Coffee Kiosk]]
+1-2
+-
+[[Raspberry Mocha|Raspberry mocha]]
+46
+259
+30 min|25 min
+16
+[[Cacao]](1)[[Coffee Bean|Coffee bean]](1)[[Cream]](1)[[Raspberry]](1)
+[[Coffee Kiosk]]
+1-2
+-
+[[Lobster Soup|Lobster soup]]
+46
+612
+2 h 30 min|2 h 7 min
+73
+[[Chili Pepper|Chili peppers]](2)[[Cream]](1)[[Lobster Tail|Lobster tails]](2)[[Tomato]] (1)
+[[Soup Kitchen]]
+1-2
+-
+[[Hot Chocolate|Hot chocolate]]
+47
+316
+25 min|21 min
+32
+[[Cacao]](2)[[Cream]](1)[[Milk]](1)[[White Sugar|White sugar]](1)
+[[Coffee Kiosk]]
+2-?
+-
+[[Tomato Soup|Tomato soup]]
+47
+478
+1 h 30 min|1 h 16 min
+57
+[[Chili Pepper|Chili pepper]](1)[[Goat Cheese|Goat cheese]](1)[[Tomato Juice|Tomato juice]](1)[[Tomato]]es(2)
+[[Soup Kitchen]]
+1-2
+-
+[[Red Scarf|Red scarf]]
+48
+288
+2 h 30 min|2 h 7 min
+34
+[[Strawberry|Strawberries]](2)[[Wool]](2)
+[[Loom]]
+1-2
+-
+[[Lobster Skewer|Lobster skewer]]
+48
+417
+40 min|34 min
+50
+[[Chili Pepper|Chili pepper]](1)[[Honey]](1)[[Lobster Tail|Lobster tail]] (1)
+[[BBQ Grill]]
+2-?
+-
+[[Beeswax]]
+48
+234
+45 min|38 min
+28
+[[Honeycomb]]s(3)
+[[Honey Extractor]]
+N/A
+-
+[[Strawberry Candle|Strawberry candle]]
+48
+370
+2 h|1 h 42 min
+44
+[[Beeswax]](1)[[Strawberry|Strawberries]](2)
+[[Candle Maker]]
+2-3
+-
+[[Pumpkin Soup|Pumpkin soup]]
+49
+392
+2 h|1 h 42 min
+47
+[[Butter]](1)[[Carrot]]s(2)[[Honey]](1)[[Pumpkin]]s(3)
+[[Soup Kitchen]]
+2-?
+-
+[[Strawberry Jam|Strawberry jam]]
+50
+270
+7 h 30 min|6 h 22 min
+32
+[[Strawberry|Strawberries]](3)
+[[Jam Maker]]
+2-3
+-
+[[Duck Feather|Duck feather]]
+50
+140
+3 h
+17
+[[Duck]](1)
+[[Duck Salon]]
+3-6
+-
+[[Duck Trap|Duck trap]]
+50
+0
+60 min|51 min
+3
+None
+[[Net Maker]]
+N/A
+-
+[[Caramel Apple|Caramel apple]]
+51
+255
+2 h|1 h 42 min
+31
+[[Apple]](1)[[Syrup]](2)
+[[Candy Machine]]
+N/A
+-
+[[Pillow]]
+51
+676
+3 h|2 h 33 min
+81
+[[Cotton Fabric|Cotton fabrics]](2)[[Duck Feather|Duck feathers]](3)
+[[Sewing Machine]]
+1-?
+-
+[[Toffee]]
+52
+176
+1 h 30 min|1 h 16 min
+21
+[[Butter]](1)[[Wheat]](1)[[White Sugar|White sugar]](1)
+[[Candy Machine]]
+N/A
+-
+[[Raspberry Candle|Raspberry candle]]
+52
+360
+1 h 45 min|1 h 29 min
+43
+[[Beeswax]](1)[[Raspberry|Raspberries]](2)
+[[Candle Maker]]
+2-3
+-
+[[Fish Soup|Fish soup]]
+53
+298
+3 h|2 h 33 min
+35
+[[Carrot]](1)[[Fish Fillet|Fish fillets]](2)[[Milk]](1)[[Potato]]es(3)
+[[Soup Kitchen]]
+1-2
+-
+[[Soy Sauce|Soy sauce]]
+54
+154
+3 h|2 h 33 min
+19
+[[Soybean]]s(9)[[Wheat]](1)
+[[Sauce Maker]]
+2-4
+-
+[[Chocolate]]
+54
+460
+20 h|17 h
+55
+[[Cacao]](3)[[Cream]] (1)[[White Sugar|White sugar]](1)
+[[Candy Machine]]
+N/A
+-
+[[Rice]]
+56
+18
+45 min
+3
+[[Rice]](1)
+[[Farm|Field]]
+19-32
+-
+[[Sushi Roll|Sushi roll]]
+56
+489
+1 h|51 min
+58
+[[Fish Fillet|Fish fillet]](1)[[Rice]](15)[[Soy Sauce|Soy sauce]](1)
+[[Sushi Bar]]
+1-2
+-
+[[Olive]]
+57
+82
+1 d
+17
+N/A
+[[Olive Tree|Olive tree]]
+4-6
+-
+[[Lollipop]]
+57
+342
+12 h|10 h 12 min
+41
+[[Cherry]](1)[[Strawberry|Strawberries]](2)[[Syrup]](1)
+[[Candy Machine]]
+N/A
+-
+[[Lettuce]]
+58
+32
+3 h 30 min
+7
+[[Lettuce]](1)
+[[Farm|Field]]
+9-14
+-
+[[Feta Salad|Feta salad]]
+58
+745
+1 h 30 min|1 h 16 min
+89
+[[Goat Cheese|Goat cheese]](2)[[Lettuce]](3)[[Olive]]s(2)[[Roasted Tomatoes|Roasted tomatoes]](1)
+[[Salad Bar]]
+1-?
+-
+[[Lobster Sushi|Lobster sushi]]
+59
+637
+1 h|51 min
+76
+[[Lobster Tail|Lobster tail]](1)[[Rice]](15)[[Soy Sauce|Soy sauce]](1)
+[[Sushi Bar]]
+1-?
+-
+[[Blanket]]
+59
+1098
+3 h 30 min|2 h 58 min
+131
+[[Cotton Fabric|Cotton fabric]](3)[[Duck Feather|Duck feathers]](5)[[Pumpkin]](1)
+[[Sewing Machine]]
+1-?
+-
+[[Jelly Beans|Jelly beans]]
+60
+684
+24 h|20 h 24 min
+81
+[[Blackberry Jam|Blackberry jam]](1)[[Raspberry Jam|Raspberry jam]](1)[[White Sugar|White sugar]](1)
+[[Candy Machine]]
+N/A
+-
+[[Olive Oil|Olive oil]]
+60
+277
+45 min|38 min
+33
+[[Olive]]s(3)
+[[Sauce Maker]]
+1-2
+-
+[[Veggie Bagel|Veggie bagel]]
+61
+532
+40 min|34 min
+63
+[[Bread]](2)[[Lettuce]](3)[[Olive Oil|Olive oil]](1)[[Tomato]]es(2)
+[[Sandwich Bar]]
+1-?
+-
+[[BLT Salad|BLT salad]]
+62
+723
+1 h 45 min|1 h 29 min
+86
+[[Bacon]](2)[[Lettuce]](3)[[Mayonnaise]](1)[[Roasted Tomatoes|Roasted tomatoes]](1)
+[[Salad Bar]]
+1-?
+-
+[[Mayonnaise]]
+62
+378
+15 min|12 min
+44
+[[Egg]]s(4)[[Olive Oil|Olive oil]](1)
+[[Sauce Maker]]
+1-2
+-
+[[Egg Sushi|Egg sushi]]
+63
+550
+2 h|1 h 42 min
+66
+[[Brown Sugar|Brown sugar]](1)[[Egg]]s(4)[[Rice]](15)[[Soy Sauce|Soy sauce]](1)
+[[Sushi Bar]]
+1-?
+-
+[[Seafood Salad|Seafood salad]]
+64
+763
+2 h|1 h 42 min
+91
+[[Fish Fillet|Fish fillet]](1)[[Lettuce]](3)[[Lobster Tail|Lobster tail]](1)[[Mayonnaise]](1)
+[[Salad Bar]]
+1-?
+-
+[[Berry Smoothie|Berry smoothie]]
+64
+547
+1 h 15 min|1 h 3 min
+65
+[[Blackberry|Blackberries]](3)[[Strawberry|Strawberries]](3)[[Raspberry|Raspberries]](3)
+[[Smoothie Mixer]]
+1-?
+-
+[[Bacon Toast|Bacon toast]]
+65
+648
+1 h 40 min|1 h 25 min
+77
+[[Bacon]](2)[[Bread]](2)[[Lettuce]](3)[[Mayonnaise]](1)
+[[Sandwich Bar]]
+1-?
+-
+[[Lemon]]
+66
+93
+1 d 5 h
+18
+N/A
+[[Lemon Tree|Lemon tree]]
+4-6
+-
+[[Lemon Curd|Lemon curd]]
+66
+367
+25 min|21 min
+45
+[[Butter]](1)[[Egg]]s(2)[[Lemon]]s(2)[[White Sugar|White sugar]](1)
+[[Sauce Maker]]
+1-2
+-
+[[Egg Sandwich|Egg sandwich]]
+66
+583
+1 h 20 min|1 h 8 min
+69
+[[Bread]](2)[[Egg]]s(2)[[Lettuce]](3)[[Mayonnaise]](1)
+[[Sandwich Bar]]
+1-?
+-
+[[Green Smoothie|Green smoothie]]
+66
+320
+45 min|38 min
+38
+[[Apple]](1)[[Lemon]](1)[[Lettuce]](5)
+[[Smoothie Mixer]]
+1-2
+-
+[[Fresh Pasta|Fresh pasta]]
+67
+43
+15 min|12 min
+5
+[[Egg]](1)[[Wheat]](2)
+[[Pasta Maker]]
+8-12
+-
+[[Pasta Salad|Pasta salad]]
+67
+759
+2 h 30 min|2 h 7 min
+90
+[[Fresh Pasta|Fresh pasta]](4)[[Lemon]]s(2)[[Olive Oil|Olive oil]](1)[[Tomato]]es (2)
+[[Salad Bar]]
+1-?
+-
+[[Lemon Pie|Lemon pie]]
+67
+446
+2 h 15 min|1 h 54 min
+53
+[[Egg]](1)[[Lemon Curd|Lemon curd]](1)[[Wheat]](2)
+[[Pie Oven]]
+1-2
+-
+[[Onion]]
+68
+39
+5 h
+8
+[[Onion]](1)
+[[Farm|Field]]
+9-?
+-
+[[Grilled Onion|Grilled onion]]
+68
+190
+1 h|51 min
+23
+[[Butter]](1)[[Onion]]s(2)
+[[BBQ Grill]]
+3-?
+-
+[[Lemon Cake|Lemon cake]]
+68
+896
+2 h 30 min|2 h 7 min
+107
+[[Cream]](1)[[Egg]]s(2)[[Lemon Curd|Lemon curd]](2)[[Wheat]](3)
+[[Cake Oven]]
+1-?
+-
+[[Tomato Sauce|Tomato sauce]]
+69
+230
+30 min|25 min
+27
+[[Brown Sugar|Brown sugar]](1)[[Lemon]](1)[[Tomato]]es (2)
+[[Sauce Maker]]
+2-?
+-
+[[Honey Toast|Honey toast]]
+69
+255
+1 h|51 min
+31
+[[Bread]](1)[[Egg]](1)[[Honey]](1)[[Milk]](1)
+[[Sandwich Bar]]
+3-4
+-
+[[Yogurt Smoothie|Yogurt smoothie]]
+70
+349
+1 h|51 min
+42
+[[Cherry]](1)[[Cream]](1)[[Raspberry|Raspberries]](2)[[White Sugar|White sugar]](1)
+[[Smoothie Mixer]]
+1-2
+-
+[[Cloche Hat|Cloche hat]]
+70
+468
+2 h|1 h 42 min
+56
+[[Strawberry|Strawberries]](2)[[Wool]](6)
+[[Hat Maker]]
+1-4
+-
+[[Orange]]
+71
+97
+1 d 7 h
+19
+N/A
+[[Orange Tree|Orange tree]]
+4-?
+-
+[[Orange Juice|Orange juice]]
+71
+234
+2 h|1 h 42 min
+28
+[[Orange]]s(2)
+[[Juice Press]]
+2-3
+-
+[[Onion Soup|Onion soup]]
+72
+327
+2 h 30 min|2 h 7 min
+36
+[[Bread]](2)[[Cheese]]s(1)[[Onion]]s(3)
+[[Soup Kitchen]]
+2-?
+-
+[[Lemon Candle|Lemon candle]]
+72
+457
+2 h 15 min|1 h 54 min
+55
+[[Beeswax]](1)[[Lemon]]s(2)
+[[Candle Maker]]
+2-?
+-
+[[Top Hat|Top hat]]
+72
+619
+3 h 30 min|2 h 58 min
+74
+[[Cotton Fabric|Cotton fabric]](3)[[Duck Feather|Duck feather]](1)[[Refined Coal|Refined coal]](1)
+[[Hat Maker]]
+1-2
+-
+[[Gnocchi]]
+72
+475
+1 h 20 min|1 h 8 min
+57
+[[Potato]]es(4)[[Tomato]]es(3)[[Wheat]](2)[[Butter]](2)
+[[Pasta Kitchen]]
+2-?
+-
+[[Noodle Soup|Noodle soup]]
+73
+432
+2 h 30 min|2 h 7 min
+52
+[[Carrot]]s(2)[[Chili Pepper|Chili peppers]](1)[[Egg]]s(2)[[Rice Noodles|Rice noodles]] (3)
+[[Soup Kitchen]]
+2-?
+-
+[[Rice Noodles|Rice noodles]]
+73
+100
+20 min|17 min
+12
+[[Rice]](5)
+[[Pasta Maker]]
+4-5
+-
+[[Marmalade]]
+74
+457
+8 h 30 min|7 h 13 min
+54
+[[Orange]]s(3)
+[[Jam Maker]]
+2-?
+-
+[[Sun Hat|Sun hat]]
+74
+468
+2 h 30 min|2 h 7 min
+66
+[[Duck Feather|Duck feathers]](2)[[Indigo]](1)[[Raspberry]](1)[[Wool]](3)
+[[Hat Maker]]
+1-2
+-
+[[Veggie Lasagna|Veggie lasagna]]
+74
+532
+1 h 40 min|1 h 25 min
+63
+[[Tomato Sauce|Tomato sauce]](1)[[Fresh Pasta|Fresh pasta]](3)[[Carrot]](1)[[Cheese]](1)
+[[Pasta Kitchen]]
+1-?
+-
+[[Hot Dog|Hot dog]]
+75
+370
+30 min|25 min
+44
+[[Bacon]](2)[[Bread]](1)[[Tomato Sauce|Tomato sauce]](1)
+[[Hot Dog Stand]]
+1-2
+-
+[[Peach]]
+76
+100
+1 d 6 h
+20
+N/A
+[[Peach Tree|Peach tree]]
+4-?
+-
+[[Peach Tart|Peach tart]]
+76
+435
+2 h 30 min|2 h 7 min
+52
+[[Cream]](1)[[Egg]]s(2)[[Peach]]es(3)[[Wheat]](2)
+[[Pie Oven]]
+1-?
+-
+[[Tofu Dog|Tofu dog]]
+76
+367
+45 min|38 min
+44
+[[Lettuce]](3)[[Soybean]]s(6)[[Tomato]]es(4)
+[[Hot Dog Stand]]
+1-2
+-
+[[Salsa]]
+77
+252
+20 min|17 min
+30
+[[Chili Pepper|Chili peppers]](2)[[Onion]]s(2)[[Tomato]]es(2)
+[[Sauce Maker]]
+2-?
+-
+[[Taco]]
+77
+396
+45 min|38 min
+47
+[[Corn Bread|Corn bread]](1)[[Bacon]](1)[[Salsa]](1)
+[[Taco Kitchen]]
+2-?
+-
+[[Orange Sorbet|Orange sorbet]]
+78
+399
+2 h|1 h 42 min
+48
+[[Honey]](1)[[Orange]]s(2)
+[[Ice Cream Maker]]
+2-?
+-
+[[Corn Dog|Corn dog]]
+78
+529
+1 h|51 min
+63
+[[Bacon]](4)[[Corn]](4)[[Olive Oil|Olive oil]](1)
+[[Hot Dog Stand]]
+1-?
+-
+[[Fish Taco|Fish taco]]
+79
+392
+1 h 30 min|1 h 9 min
+44
+[[Chili Pepper|Chili peppers]](2)[[Corn Bread|Corn bread]](2)[[Fish Fillet|Fish fillet]](1)[[Lemon]](1)
+[[Taco Kitchen]]
+1-2
+-
+[[Peach Jam|Peach jam]]
+79
+464
+8 h|6 h 48 min
+55
+[[Peach]]es(3)
+[[Jam Maker]]
+2-?
+-
+[[Lobster Pasta|Lobster pasta]]
+79
+637
+2 h|1 h 42 min
+76
+[[Lobster Tail|Lobster tail]](1)[[Cream]](2)[[Fresh Pasta|Fresh pasta]](3)[[Tomato]]es(4)
+[[Pasta Kitchen]]
+1-?
+-
+[[Tea Leaf|Tea leaf]]
+80
+49
+6 h 30 min
+9
+[[Tea Leaf|Tea leaf]](1)
+[[Farm|Field]]
+8-?
+-
+[[Green Tea|Green tea]]
+80
+241
+30 min|25 min
+29
+[[Tea Leaf|Tea leaves]](5)
+[[Tea Stand]]
+2-?
+-
+[[Onion Dog|Onion dog]]
+80
+306
+1 h 15 min|1 h 3 min
+36
+[[Bacon]](2)[[Bread]]s(1)[[Chili Pepper|Chili peppers]](1)[[Onion]]s(3)
+[[Hot Dog Stand]]
+
+-
+[[Milk Tea|Milk tea]]
+81
+190
+45 min|38 min
+23
+[[Milk]](1)[[Tea Leaf|Tea leaves]](3)
+[[Tea Stand]]
+
+-
+[[Quesadilla]]
+82
+241
+1 h|51 min
+29
+[[Cheese]](1)[[Chili Pepper|Chili peppers]](2)[[Wheat]](4)
+[[Taco Kitchen]]
+2-3
+-
+[[Fruit Salad|Fruit salad]]
+82
+597
+2 h|1 h 42 min
+71
+[[Blackberry|Blackberries]](2)[[Honey]](1)[[Orange]](1)[[Strawberry|Strawberries]](3)
+[[Salad Bar]]
+1-?
+-
+[[Peach Ice Cream|Peach ice cream]]
+83
+450
+3 h|2 h 33 min
+54
+[[Cream]](1)[[Honey]](1)[[Peach]]es(2)
+[[Ice Cream Maker]]
+2-?
+-
+[[Honey Tea|Honey tea]]
+83
+313
+40 min|34 min
+37
+[[Honey]](1)[[Tea Leaf|Tea leaves]](3)
+[[Tea Stand]]
+3-?
+-
+[[Summer Salad|Summer salad]]
+84
+554
+3 h|2 h 33 min
+66
+[[Goat Cheese|Goat cheese]](1)[[Onion]]s(3)[[Peach]](1)[[Tomato]]es(3)
+[[Salad Bar]]
+1-?
+-
+[[Lemon Tea|Lemon tea]]
+86
+241
+20 min|17 min
+29
+[[Lemon]](1)[[Tea Leaf|Tea leaves]](3)
+[[Tea Stand]]
+2-?
+-
+[[Nachos]]
+87
+432
+1 h 15 min|1 h 3 min
+52
+[[Cheese]](1)[[Corn]](4)[[Salsa]](1)
+[[Taco Kitchen]]
+2-3
+-
+[[Mixed Smoothie|Mixed smoothie]]
+88
+504
+30 min|25 min
+60
+[[Lemon]](1)[[Orange]]s(2)[[Peach]]es(2)
+[[Smoothie Mixer]]
+
+-
+[[Orange Tea|Orange tea]]
+89
+255
+40 min|34 min
+30
+[[Orange]](1)[[Tea Leaf|Tea leaves]](3)
+[[Tea Stand]]
+2-?
+-
+[[Iced Tea|Iced tea]]
+92
+252
+30 min|25 min
+30
+[[Peach]](1)[[Tea Leaf|Tea leaves]](3)
+[[Tea Stand]]
+2-?
