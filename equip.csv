@@ -1,0 +1,54 @@
+Name,Level,Produce,Slot,TimeReduce
+[[Soup Kitchen]],46,1,1,0
+[[Sugar Mill]],7,1,1,0
+[[BBQ Grill]],9,1,1,0
+[[Cake Oven]],21,1,1,0
+[[Sushi Bar]],56,1,1,0
+[[Smelter]],24,1,1,0
+[[Apple Tree]],15,4,3,0
+[[Lure Workbench]],27,1,1,0
+[[Jam Maker]],35,1,1,0
+[[Chicken]],1,1,18,0
+[[Ice Cream Maker]],29,1,1,0
+[[Honey Extractor]],39,1,1,0
+[[Blackberry Bush]],26,4,3,0
+[[Peach Tree]],76,4,3,0
+[[Pig]],10,1,15,0
+[[Raspberry Bush]],19,4,3,0
+[[Lobster Pool]],44,1,1,0
+[[Net Maker]],30,1,1,0
+[[Jeweler]],38,1,1,0
+[[Bakery]],2,1,1,0
+[[Goat]],32,1,6,0
+[[Cacao Tree]],15,4,3,0
+[[Pie Oven]],14,1,1,0
+[[Coffee Bush]],42,4,3,0
+[[Olive Tree]],57,4,3,0
+[[Candle Maker]],48,1,1,0
+[[Tea Stand]],80,1,1,0
+[[Dairy]],6,1,1,0
+[[Feed Mill]],3,3,2,0
+[[Sheep]],16,1,9,0
+[[Orange Tree]],71,4,3,0
+[[Loom]],17,1,1,0
+[[Smoothie Mixer]],64,1,1,0
+[[Sauce Maker]],54,1,1,0
+[[Taco Kitchen]],77,1,1,0
+[[Beehive Tree]],39,1,1,0
+[[Duck Salon]],50,1,1,0
+[[Candy Machine]],51,1,1,0
+[[Cow]],6,1,15,0
+[[Salad Bar]],58,1,1,0
+[[Hot Dog Stand]],75,1,1,0
+[[Farm]],1,1,60,0
+[[Lemon Tree]],66,4,3,0
+[[Cherry Tree]],22,4,3,0
+[[Sewing Machine]],19,1,1,0
+[[Pasta Maker]],67,1,1,0
+[[Hat Maker]],70,1,1,0
+[[Coffee Kiosk]],42,1,1,0
+[[Pasta Kitchen]],72,1,1,0
+[[Popcorn Pot]],8,1,1,0
+[[Sandwich Bar]],61,1,1,0
+[[Fish]],27,1,2,0
+[[Juice Press]],26,1,1,0
