@@ -96,7 +96,7 @@ class Player:
         return new_player
     
     @classmethod
-    def from_mutation(cls, origin, target_num=3, delta_quant=3):
+    def from_mutation(cls, origin, target_num=1, delta_quant=2):
         """Initialize by mutate the original one"""
         assert isinstance(origin, cls), "input is not a player, type: " + str(type(origin))
         new_player = cls(origin.priority)
@@ -104,11 +104,14 @@ class Player:
         target = random.sample(items, target_num)
         for item in target:
             if item in new_player.target:
-                new_player.target[item] += random.randint(0, delta_quant) - delta_quant / 2
+                delta_value = random.randint(1, delta_quant)
+                if random.random() < 0.5:
+                    delta_value = - delta_value
+                new_player.target[item] += delta_value
                 if new_player.target[item] <= 0:
                     new_player.target.pop(item)
             else:
-                new_player.target[item] = random.randint(0, delta_quant)
+                new_player.target[item] = random.randint(1, delta_quant)
         # prior_item = random.sample(items, target_num * 2)
         # for _ in range(0, len(prior_item), 2):
         #     item1 = prior_item[_]

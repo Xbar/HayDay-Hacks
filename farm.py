@@ -258,7 +258,7 @@ class HayDayFarm:
                                                inventory, priority=priority)
             if total_time < item_time:
                 total_time = item_time
-        return total_time, equip_queue
+        return total_time, equip_queue, inventory
 
 # if __name__ == '__main__':
 #     my_farm = HayDayFarm('items.csv', 'equip.csv', 40)

@@ -1,0 +1,309 @@
+(dp0
+S'[[Pumpkin]]'
+p1
+I20
+sS'[[Blackberry Jam]]'
+p2
+I72
+sS'[[Violet Dress]]'
+p3
+I59
+sS'[[Strawberry Ice Cream]]'
+p4
+I77
+sS'[[Raspberry Muffin]]'
+p5
+I21
+sS'[[Apple Pie]]'
+p6
+I63
+sS'[[Tomato Juice]]'
+p7
+I55
+sS'[[Honey]]'
+p8
+I35
+sS'[[Vanilla Ice Cream]]'
+p9
+I85
+sS'[[Lure]]'
+p10
+I27
+sS'[[Carrot Pie]]'
+p11
+I78
+sS'[[Tomato]]'
+p12
+I11
+sS'[[Potato]]'
+p13
+I47
+sS'[[Cheesecake]]'
+p14
+I12
+sS'[[Fish Pie]]'
+p15
+I13
+sS'[[Pancake]]'
+p16
+I42
+sS'[[Popcorn]]'
+p17
+I65
+sS'[[Goat Cheese]]'
+p18
+I37
+sS'[[Potato Bread]]'
+p19
+I87
+sS'[[Goat Feed]]'
+p20
+I7
+sS'[[Red Berry Cake]]'
+p21
+I5
+sS'[[Pizza]]'
+p22
+I19
+sS'[[Syrup]]'
+p23
+I79
+sS'[[Sheep Feed]]'
+p24
+I38
+sS'[[Cherry Popsicle]]'
+p25
+I31
+sS'[[Bacon and Eggs]]'
+p26
+I16
+sS'[[Carrot Juice]]'
+p27
+I34
+sS'[[Baked Potato]]'
+p28
+I58
+sS'[[Milk]]'
+p29
+I74
+sS'[[Apple Jam]]'
+p30
+I54
+sS'[[Carrot]]'
+p31
+I57
+sS'[[Blackberry]]'
+p32
+I8
+sS'[[Cotton Shirt]]'
+p33
+I45
+sS'[[Cream]]'
+p34
+I52
+sS'[[Raspberry Jam]]'
+p35
+I33
+sS'[[Cherry]]'
+p36
+I70
+sS'[[Bread]]'
+p37
+I17
+sS'[[Wheat]]'
+p38
+I61
+sS'[[Casserole]]'
+p39
+I60
+sS'[[Chili Pepper]]'
+p40
+I25
+sS'[[Honey Popcorn]]'
+p41
+I29
+sS'[[Honeycomb]]'
+p42
+I30
+sS'[[Indigo]]'
+p43
+I2
+sS'[[Raspberry]]'
+p44
+I36
+sS'[[Chocolate Cake]]'
+p45
+I46
+sS'[[Spicy Pizza]]'
+p46
+I22
+sS'[[Cacao]]'
+p47
+I51
+sS'[[Woolly Chaps]]'
+p48
+I9
+sS'[[Carrot Cake]]'
+p49
+I39
+sS'[[Egg]]'
+p50
+I10
+sS'[[Strawberry Cake]]'
+p51
+I81
+sS'[[Cherry Juice]]'
+p52
+I41
+sS'[[Fish Burger]]'
+p53
+I82
+sS'[[White Sugar]]'
+p54
+I43
+sS'[[Buttered Popcorn]]'
+p55
+I86
+sS'[[Cream Cake]]'
+p56
+I89
+sS'[[Soybean]]'
+p57
+I84
+sS'[[Apple]]'
+p58
+I4
+sS'[[Blue Woolly Hat]]'
+p59
+I23
+sS'[[Goat Milk]]'
+p60
+I66
+sS'[[Hamburger]]'
+p61
+I90
+sS'[[Cherry Jam]]'
+p62
+I0
+sS"[[Shepherd's Pie]]"
+p63
+I80
+sS'[[Brown Sugar]]'
+p64
+I1
+sS'[[Butter]]'
+p65
+I18
+sS'[[Bacon Pie]]'
+p66
+I24
+sS'[[Strawberry]]'
+p67
+I62
+sS'[[Pumpkin Pie]]'
+p68
+I50
+sS'[[Corn]]'
+p69
+I14
+sS'[[Fish Fillet]]'
+p70
+I67
+sS'[[Chili Popcorn]]'
+p71
+I53
+sS'[[Bacon]]'
+p72
+I44
+sS'[[Cotton Fabric]]'
+p73
+I68
+sS'[[Blue Sweater]]'
+p74
+I15
+sS'[[Potato Feta Cake]]'
+p75
+I69
+sS'[[Sugarcane]]'
+p76
+I71
+sS'[[Cookie]]'
+p77
+I76
+sS'[[Apple Juice]]'
+p78
+I49
+sS'[[Pig Feed]]'
+p79
+I83
+sS'[[Cotton]]'
+p80
+I3
+sS'[[Feta Pie]]'
+p81
+I64
+sS'[[Cheese]]'
+p82
+I88
+sS'[[Chocolate Ice Cream]]'
+p83
+I48
+sS'[[Chicken Feed]]'
+p84
+I56
+sS'[[Corn Bread]]'
+p85
+I28
+sS'[[Wool]]'
+p86
+I73
+sS'[[Roasted Tomatoes]]'
+p87
+I40
+sS'[[Berry Juice]]'
+p88
+I6
+sS'[[Sweater]]'
+p89
+I26
+sS'[[Blackberry Muffin]]'
+p90
+I32
+sS'[[Cow Feed]]'
+p91
+I75
+s.(dp0
+S'[[Tomato]]'
+p1
+I0
+sS'[[Blue Sweater]]'
+p2
+I5
+sS'[[Corn]]'
+p3
+I0
+sS'[[Raspberry Muffin]]'
+p4
+I3
+sS'[[Blackberry]]'
+p5
+I1
+sS'[[Berry Juice]]'
+p6
+I1
+sS'[[Fish Burger]]'
+p7
+I2
+sS'[[Goat Cheese]]'
+p8
+I4
+sS'[[Sugarcane]]'
+p9
+I0
+sS"[[Shepherd's Pie]]"
+p10
+I5
+sS'[[Violet Dress]]'
+p11
+I3
+s.

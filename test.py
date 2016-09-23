@@ -6,25 +6,31 @@ import numpy as np
 import random
 import os
 
+# def find_available_name(path):
+#     from os import listdir
+#     from os.path import join
+#     files = [f for f in listdir(path)]
+#     num = 1
+#     while True:
+#         filename = "result%03d" % num
+#         if not (filename in files):
+#             return join(path, filename)
+#         num += 1
 
-def find_available_name(path):
-    from os import listdir
-    from os.path import join
-    files = [f for f in listdir(path)]
-    num = 1
-    while True:
-        filename = "result%03d" % num
-        if not (filename in files):
-            return join(path, filename)
-        num += 1
 
+class GoldEvolver(Evolution):
+    def score(self, queue, inventory):
+        gold = 0
+        for item in inventory:
+            gold += self.farm.get_price(item) * inventory[item]['Quantity']
+        return gold
 
 if __name__ == '__main__':
     seed = np.fromstring(os.urandom(4), dtype=np.uint32)
     random.seed(seed[0])
     my_farm = HayDayFarm('items.csv', 'equip.csv', 40)
-    my_nature = Evolution(my_farm, read_from='results')
-    score = my_nature.evolve(3)
+    my_nature = GoldEvolver(my_farm, read_from='results', player_num=200, write_to='goldres')
+    score = my_nature.evolve(selection_round=20)
     print score
     # item_list = my_farm.get_item_list()
     # p1 = Player(item_list)
